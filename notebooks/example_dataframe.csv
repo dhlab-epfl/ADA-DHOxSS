@@ -1,6 +1,0 @@
-;date;event;day;is_weekend;is_weekday
-0;1970-05-23;birth;Saturday;True;False
-1;1978-07-14;anniversary;Friday;False;True
-2;1986-03-14;wedding;Friday;False;True
-3;1993-01-01;wedding;Friday;False;True
-4;1998-07-14;anniversary;Tuesday;False;True
