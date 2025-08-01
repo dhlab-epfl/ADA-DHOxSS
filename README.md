@@ -22,7 +22,7 @@ Teaching materials for the `Applied Data Analysis` course at the 2025 Digital Hu
   
 - Thursday 7th August 2025
   -	Morning 1: **(4) Diagrams and Geo-mapping**
-  -	Morning 2: **(5) Natural Language Processing**
+  -	Morning 2: **(Optional) (5) Natural Language Processing / (6) Network Analysis / (7) Network Visualisation**
   -	Afternoon 1: **Projects**
   -	Afternoon 2: **(Optional) Projects**
   
