@@ -3,7 +3,7 @@ Teaching materials for the `Applied Data Analysis` course at the 2025 Digital Hu
 
 ## Programme
 - Monday 4th August 2025
-  - Morning 1: **Keynote**
+  - Morning 1: **(External) Keynote**
   -	Morning 2: **Introduction to the strand. Installation.**
   -	Afternoon 1: **(1) Pandas**
   -	Afternoon 2: **(Optional) Installation + Discussion**
@@ -30,7 +30,7 @@ Teaching materials for the `Applied Data Analysis` course at the 2025 Digital Hu
   -	Morning 1: **(Optional) Best Practices**
   -	Morning 2: **Projects**
   -	Afternoon 1: **Projects Presentation**
-  -	Afternoon 2: **Keynote**
+  -	Afternoon 2: **(External) Keynote**
    
 ## Convenors
   - Paul Guhennec (paul.guhennec@epfl.ch)
