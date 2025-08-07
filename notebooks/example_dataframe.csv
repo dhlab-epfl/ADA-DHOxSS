@@ -1,0 +1,6 @@
+;date;event;author_firstname;author_lastname;date_day;is_weekend
+0;1970-05-23;birth;Paul;Guhennec;Saturday;True
+1;1978-07-14;anniversary;Ellen;Guhennec;Friday;False
+2;1986-03-14;wedding;Paul;Guhennec;Friday;False
+3;1993-01-01;wedding;Ellen;Guhennec;Friday;False
+4;1998-07-14;anniversary;Ellen;Guhennec;Tuesday;False
